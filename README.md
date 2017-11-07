@@ -2,6 +2,11 @@
 
 A list of awesome modules and adaptors for the [KrakenD](https://github.com/devopsfaith/krakend) framework.
 
+## Encoding
+
+1. [krakend-xml](https://github.com/devopsfaith/krakend-xml)
+2. [krakend-rss](https://github.com/devopsfaith/krakend-rss)
+
 ## Circuit Breaker
 
 1. [gobreaker](https://github.com/devopsfaith/krakend-circuitbreaker/tree/master/gobreaker) contains an adaptor over the github.com/sony/gobreaker lib
