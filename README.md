@@ -26,3 +26,7 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 ### OAuth2 client credentials
 
 1. [krakend-oauth2-clientcredentialst](https://github.com/devopsfaith/krakend-oauth2-clientcredentials) offers a proxy.HTTPClientFactory implementation wrapping the golang.org/x/oauth2/clientcredentials lib
+
+## Log
+
+1. [krakend-gologging](https://github.com/devopsfaith/krakend-gologging) offers an improved logger for the [KrakenD](https://github.com/devopsfaith/krakend) framework by adapting the github.com/op/go-logging lib
