@@ -30,3 +30,7 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 ## Log
 
 1. [krakend-gologging](https://github.com/devopsfaith/krakend-gologging) offers an improved logger for the [KrakenD](https://github.com/devopsfaith/krakend) framework by adapting the github.com/op/go-logging lib
+
+## Config parser
+
+1. [krakend-viper](https://github.com/devopsfaith/krakend-viper) parse config files from multiple formats
