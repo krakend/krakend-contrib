@@ -7,6 +7,10 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 1. [krakend-xml](https://github.com/devopsfaith/krakend-xml)
 2. [krakend-rss](https://github.com/devopsfaith/krakend-rss)
 
+## Service Discovery
+
+1- [krakend-etcd](https://github.com/devopsfaith/krakend-etcd) is an etcd client and subscriber for the KrakenD framework.
+
 ## Circuit Breaker
 
 1. [gobreaker](https://github.com/devopsfaith/krakend-circuitbreaker/tree/master/gobreaker) contains an adaptor over the github.com/sony/gobreaker lib
