@@ -46,3 +46,7 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 ## Metrics and instrumentation
 
 1. [krakend-metrics](https://github.com/devopsfaith/krakend-metrics) contains a set of middlewares for the [KrakenD](https://github.com/devopsfaith/krakend) framework for instrumenting different parts of the pipes.
+
+## CLI
+
+1. [krakend-cobra](https://github.com/devopsfaith/krakend-cobra) integrates the [cobra](github.com/spf13/cobra) lib into the [KrakenD](https://github.com/devopsfaith/krakend) framework
