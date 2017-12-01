@@ -9,7 +9,7 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 
 ## Service Discovery
 
-1- [krakend-etcd](https://github.com/devopsfaith/krakend-etcd) is an etcd client and subscriber for the KrakenD framework.
+1. [krakend-etcd](https://github.com/devopsfaith/krakend-etcd) is an etcd client and subscriber for the KrakenD framework.
 
 ## Circuit Breaker
 
@@ -38,3 +38,7 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 ## Config parser
 
 1. [krakend-viper](https://github.com/devopsfaith/krakend-viper) parse config files from multiple formats
+
+## Metrics and instrumentation
+
+1. [krakend-metrics](https://github.com/devopsfaith/krakend-metrics) contains a set of middlewares for the [KrakenD](https://github.com/devopsfaith/krakend) framework for instrumenting different parts of the pipes.
