@@ -25,6 +25,10 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 
 1. [krakend-martian](https://github.com/devopsfaith/krakend-martian) injects martian modifiers into the KrakenD proxy pipe
 
+## Caching
+
+1. [krakend-httpcache](https://github.com/devopsfaith/krakend-httpcache) embeds an in-memory caching system that keeps the responses using the time specified in the Cache HTTP headers.
+
 ## Security
 
 ### OAuth2 client credentials
