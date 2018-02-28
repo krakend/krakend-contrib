@@ -2,6 +2,10 @@
 
 A list of awesome modules and adaptors for the [KrakenD](https://github.com/devopsfaith/krakend) framework.
 
+## Metrics
+
+1. [krakend-newrelic](https://github.com/letgoapp/krakend-newrelic) integrates the NewRelic agent at router, proxies and backend levels
+
 ## Encoding
 
 1. [krakend-xml](https://github.com/devopsfaith/krakend-xml)
