@@ -2,9 +2,10 @@
 
 A list of awesome modules and adaptors for the [KrakenD](https://github.com/devopsfaith/krakend) framework.
 
-## Metrics
+## Metrics and instrumentation
 
 1. [krakend-newrelic](https://github.com/letgoapp/krakend-newrelic) integrates the NewRelic agent at router, proxies and backend levels
+2. [krakend-metrics](https://github.com/devopsfaith/krakend-metrics) contains a set of middlewares for the [KrakenD](https://github.com/devopsfaith/krakend) framework for instrumenting different parts of the pipes.
 
 ## Encoding
 
@@ -50,10 +51,6 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 ## Config parser
 
 1. [krakend-viper](https://github.com/devopsfaith/krakend-viper) parse config files from multiple formats
-
-## Metrics and instrumentation
-
-1. [krakend-metrics](https://github.com/devopsfaith/krakend-metrics) contains a set of middlewares for the [KrakenD](https://github.com/devopsfaith/krakend) framework for instrumenting different parts of the pipes.
 
 ## CLI
 
