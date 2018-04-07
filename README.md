@@ -4,8 +4,9 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 
 ## Metrics and instrumentation
 
-1. [krakend-newrelic](https://github.com/letgoapp/krakend-newrelic) integrates the NewRelic agent at router, proxies and backend levels
+1. [krakend-newrelic](https://github.com/devopsfaith/krakend-newrelic) integrates the NewRelic agent at router, proxies and backend levels
 2. [krakend-metrics](https://github.com/devopsfaith/krakend-metrics) contains a set of middlewares for the [KrakenD](https://github.com/devopsfaith/krakend) framework for instrumenting different parts of the pipes.
+3. [krakend-influx](https://github.com/devopsfaith/krakend-influx) adapter to send KrakenD metrics to an influxdb backend.
 
 ## Encoding
 
@@ -15,6 +16,8 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 ## Service Discovery
 
 1. [krakend-etcd](https://github.com/devopsfaith/krakend-etcd) is an etcd client and subscriber for the KrakenD framework.
+2. [krakend-eureka](https://github.com/joaoqalves/krakend-eureka) is an eureka client and subscriber for the KrakenD framework.
+3. [krakend-consul](https://github.com/devopsfaith/krakend-consul) is a consul client for the KrakenD framework.
 
 ## Circuit Breaker
 
@@ -51,6 +54,7 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 ## Config parser
 
 1. [krakend-viper](https://github.com/devopsfaith/krakend-viper) parse config files from multiple formats
+2. [krakend-flexibleconfig](https://github.com/devopsfaith/krakend-flexibleconfig) extended features for KrakenD config parsers (variable substitutions, etc)
 
 ## CLI
 
