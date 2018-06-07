@@ -77,3 +77,7 @@ KrankenD rate limiter implementation based on GCRA algorithm using github.com/th
 ## CLI
 
 1. [krakend-cobra](https://github.com/devopsfaith/krakend-cobra) integrates the [cobra](github.com/spf13/cobra) lib into the [KrakenD](https://github.com/devopsfaith/krakend) framework
+
+## Devel
+
+1. [krakend-memviz](https://github.com/devopsfaith/krakend-memviz) Adds a dotfile exporter of resquest/response snapshots to your proxy stack for debug and devel pourposes (**it will kill your performance**)
