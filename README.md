@@ -61,6 +61,7 @@ KrankenD rate limiter implementation based on GCRA algorithm using github.com/th
 
 1. [krakend-gologging](https://github.com/devopsfaith/krakend-gologging) offers an improved logger for the [KrakenD](https://github.com/devopsfaith/krakend) framework by adapting the [github.com/op/go-logging](github.com/op/go-logging) lib
 2. [krakend-logrus](https://github.com/devopsfaith/krakend-logrus) offers an improved logger for the [KrakenD](https://github.com/devopsfaith/krakend) framework by adapting the [github.com/sirupsen/logrus](https://github.com/sirupsen/logrus) lib
+3. [krakend-logstash](https://github.com/devopsfaith/krakend-logstash) is a log formatter compatible with logstash (uses [krakend-gologging](https://github.com/devopsfaith/krakend-gologging)
 
 ## Config
 
