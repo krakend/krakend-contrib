@@ -4,9 +4,9 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 
 ## Metrics and instrumentation
 
-1. [krakend-opencensus](https://github.com/devopsfaith/krakend-opencensus) simple opencensus adapter
+1. [krakend-opencensus](https://github.com/devopsfaith/krakend-opencensus) simple opencensus adapter (InfluxDB,Zipkin,Prometheus,Jaeger,Logger)
 2. [krakend-metrics](https://github.com/devopsfaith/krakend-metrics) contains a set of middlewares for the [KrakenD](https://github.com/devopsfaith/krakend) framework for instrumenting different parts of the pipes.
-3. [krakend-influx](https://github.com/devopsfaith/krakend-influx) adapter to send KrakenD metrics to an influxdb backend.
+3. [letgoapp/krakend-influx](https://github.com/letgoapp/krakend-influx) adapter to send KrakenD metrics to an influxdb backend.
 4. [krakend-newrelic](https://github.com/devopsfaith/krakend-newrelic) integrates the NewRelic agent at router, proxies and backend levels
 
 
