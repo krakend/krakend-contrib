@@ -33,7 +33,7 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 1. [rate](https://github.com/devopsfaith/krakend-ratelimit/tree/master/rate) embeds the golang.org/x/time/rate token bucket implementation into the proxy and router layers
 2. [juju](https://github.com/devopsfaith/krakend-ratelimit/tree/master/juju) implements a rate limiter proxy and router using the github.com/juju/ratelimit lib
 3. [schibsted/krakend-ratelimit](https://github.com/schibsted/krakend-ratelimit) 
-KrankenD rate limiter implementation based on GCRA algorithm using github.com/throttled/throttled implementation
+KrakenD rate limiter implementation based on GCRA algorithm using github.com/throttled/throttled implementation
 
 ## Request and response manipulation
 
