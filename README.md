@@ -38,16 +38,22 @@ KrakenD rate limiter implementation based on GCRA algorithm using github.com/thr
 ## Request and response manipulation
 
 1. [krakend-martian](https://github.com/devopsfaith/krakend-martian) injects martian modifiers into the KrakenD proxy pipe
+2. [krakend-jsonschema](https://github.com/devopsfaith/krakend-jsonschema) exposes a KrakenD middleware for input validation using JSON schema definitions.
 
 ## Caching
 
 1. [krakend-httpcache](https://github.com/devopsfaith/krakend-httpcache) embeds an in-memory caching system that keeps the responses using the time specified in the Cache HTTP headers.
+
+## Transports
+
+1. [krakend-grpc](https://github.com/devopsfaith/krakend-grpc) contains some experimental bindings for dealing with gRPC backends
 
 ## Security
 
 ### JWT
 
 1. [krakend-jose](https://github.com/devopsfaith/krakend-jose) offers two simple endpoint handlers for signing and verifing JWT
+2. [bloomfilter](https://github.com/devopsfaith/bloomfilter/tree/master/krakend) exposes a Rejecter for tokens and cookies using a rotable, distributed and eventualy consistent bloomfilter
 
 ### OAuth2 client credentials
 
