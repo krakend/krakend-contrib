@@ -86,3 +86,4 @@ KrakenD rate limiter implementation based on GCRA algorithm using github.com/thr
 ## Devel
 
 1. [krakend-memviz](https://github.com/devopsfaith/krakend-memviz) Adds a dotfile exporter of resquest/response snapshots to your proxy stack for debug and devel pourposes (**it will kill your performance**)
+2. [krakend-spew](https://github.com/devopsfaith/krakend-spew) Dumps every resquest/response passing through your proxy stacks for debug and devel pourposes (**it will kill your performance**)
