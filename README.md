@@ -45,6 +45,10 @@ KrakenD rate limiter implementation based on GCRA algorithm using github.com/thr
 
 ## Security
 
+### JWT
+
+1. [krakend-jose](https://github.com/devopsfaith/krakend-jose) offers two simple endpoint handlers for signing and verifing JWT
+
 ### OAuth2 client credentials
 
 1. [krakend-oauth2-clientcredentialst](https://github.com/devopsfaith/krakend-oauth2-clientcredentials) offers a proxy.HTTPClientFactory implementation wrapping the golang.org/x/oauth2/clientcredentials lib
