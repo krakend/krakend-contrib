@@ -9,7 +9,6 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 3. [letgoapp/krakend-influx](https://github.com/letgoapp/krakend-influx) adapter to send KrakenD metrics to an influxdb backend.
 4. [krakend-newrelic](https://github.com/devopsfaith/krakend-newrelic) integrates the NewRelic agent at router, proxies and backend levels
 
-
 ## Encoding
 
 1. [krakend-xml](https://github.com/devopsfaith/krakend-xml)
@@ -35,10 +34,11 @@ A list of awesome modules and adaptors for the [KrakenD](https://github.com/devo
 3. [schibsted/krakend-ratelimit](https://github.com/schibsted/krakend-ratelimit) 
 KrakenD rate limiter implementation based on GCRA algorithm using github.com/throttled/throttled implementation
 
-## Request and response manipulation
+## Request and response verifiers and manipulators
 
 1. [krakend-martian](https://github.com/devopsfaith/krakend-martian) injects martian modifiers into the KrakenD proxy pipe
 2. [krakend-jsonschema](https://github.com/devopsfaith/krakend-jsonschema) exposes a KrakenD middleware for input validation using JSON schema definitions.
+3. [krakend-cel](https://github.com/devopsfaith/krakend-cel) exposes factories for injecting CEL evaluators into the three major pipe parts: endpoint rejected, proxy factory and backend factory.
 
 ## Caching
 
