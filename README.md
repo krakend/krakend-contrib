@@ -47,6 +47,8 @@ KrakenD rate limiter implementation based on GCRA algorithm using github.com/thr
 ## Transports
 
 1. [krakend-grpc](https://github.com/devopsfaith/krakend-grpc) contains some experimental bindings for dealing with gRPC backends
+2. [krakend-amqp](https://github.com/devopsfaith/krakend-amqp)
+3. [krakend-pubsub](https://github.com/devopsfaith/krakend-pubsub)
 
 ## Security
 
