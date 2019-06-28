@@ -91,6 +91,10 @@ KrakenD rate limiter implementation based on GCRA algorithm using github.com/thr
 
 1. [krakend-cobra](https://github.com/devopsfaith/krakend-cobra) integrates the [cobra](github.com/spf13/cobra) lib into the [KrakenD](https://github.com/devopsfaith/krakend) framework
 
+## Kubernetes
+
+1. [mikescandy/krakend-helm](https://github.com/mikescandy/krakend-helm) KrakenD Helm chart to install KrakenD on k8s.
+
 ## Devel
 
 1. [krakend-memviz](https://github.com/devopsfaith/krakend-memviz) Adds a dotfile exporter of resquest/response snapshots to your proxy stack for debug and devel pourposes (**it will kill your performance**)
