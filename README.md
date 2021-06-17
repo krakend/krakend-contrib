@@ -69,6 +69,10 @@ KrakenD rate limiter implementation based on GCRA algorithm using github.com/thr
 
 1. [krakend-cors](https://github.com/devopsfaith/krakend-cors) wraps the [github.com/rs/cors](http://github.com/rs/cors) package for mux and [gopkg.in/gin-contrib/cors.v1](https://gopkg.in/gin-contrib/cors.v1) package for gin.
 
+### IP filtering
+
+1. [krakend-ipfilter](https://github.com/xiachufang/krakend-ipfilter) IP and CIDR filter middleware to control accesses based on IP
+
 ## Log
 
 1. [krakend-gologging](https://github.com/devopsfaith/krakend-gologging) offers an improved logger for the [KrakenD](https://github.com/devopsfaith/krakend) framework by adapting the [github.com/op/go-logging](github.com/op/go-logging) lib
