@@ -94,6 +94,7 @@ KrakenD rate limiter implementation based on GCRA algorithm using github.com/thr
 ## CLI
 
 1. [krakend-cobra](https://github.com/devopsfaith/krakend-cobra) integrates the [cobra](github.com/spf13/cobra) lib into the [KrakenD](https://github.com/devopsfaith/krakend) framework
+2. [kraki](https://github.com/moritzploss/kraki) is a linter and utility tool for KrakenD config files
 
 ## Kubernetes
 
@@ -106,3 +107,6 @@ KrakenD rate limiter implementation based on GCRA algorithm using github.com/thr
 3. [krakend-postman](https://github.com/devopsfaith/krakend-postman) Create automatic POSTMAN collection descriptions from you KrakenD config file
 4. [hands on krakend](https://github.com/lreimer/hands-on-krakend) Offers examples regarding working with KrakenD plugins
 
+## API Management
+
+1. [deprecator](https://github.com/moritzploss/deprecator) is a middleware to schedule and automate endpoint deprecation
