@@ -109,4 +109,4 @@ KrakenD rate limiter implementation based on GCRA algorithm using github.com/thr
 
 ## API Management
 
-1. [deprecator](https://github.com/moritzploss/deprecator) is a middleware to schedule and automate endpoint deprecation
+1. [krakend-deprecator](https://github.com/moritzploss/krakend-deprecator) is a middleware to schedule and automate endpoint deprecation
